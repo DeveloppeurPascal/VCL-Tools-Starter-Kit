@@ -24,6 +24,8 @@ This project uses dependencies in the form of sub-modules. They will be absent f
 * [DeveloppeurPascal/CilTseg4Delphi](https://github.com/DeveloppeurPascal/CilTseg4Delphi) must be installed in the ./lib-externes/CilTseg4Delphi subfolder.
 * [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) must be installed in the ./lib-externes/librairies subfolder.
 
+# Documentation and support
+
 The project's technical documentation, generated with [DocInsight](https://devjetsoftware.com/products/documentation-insight/), is available in the ./docs folder and on [GitHub Pages](https://developpeurpascal.github.io/VCL-Tools-Starter-Kit). Further information and related links are available on [the project website](https://vcltoolsstarterkit.developpeur-pascal.fr).
 
 If you need explanations or help in using this project in your own, please [contact me](https://developpeur-pascal.fr/nous-contacter.php). I can either direct you to an online resource, or offer you assistance on a fee-for-service basis. You can also contact me at a conference or an online presentation.
